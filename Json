@@ -1,0 +1,12 @@
+{
+  "actionId": "6410b5a7-f6f8-4776-9480-13ef83389808",
+  "action": "nfts.create",
+  "status": "success",
+  "data": {
+    "collection": {},
+    "recipient": {},
+    "token": {}
+  },
+  "startedAt": "2023-10-02T22:10:41.000Z",
+  "resource": "https://staging.crossmint.com/api/2022-06-09/actions/66881a4d-eff9-467a-b19d-a2ff76eef5c2"
+}
